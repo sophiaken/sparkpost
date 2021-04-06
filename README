@@ -1,0 +1,13 @@
+Code for implementing a server 
+- I have used Node js Express JS framework to finish up this project
+- Installed and required the necessary libraries essential for the project
+- Created POST method endpoint with basepath sparkpost to post json payload
+- Stored the acquired json into a global variable
+- Create a GET method endpoint with query parameter "name" inorder to update the 
+age for the name sent.
+
+
+Running the Code:
+-Install express.js using "npm install express --save"
+- Run the code using the command "node server.js" in the respective
+directory
